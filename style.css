@@ -1,0 +1,40 @@
+#start-btn
+{
+    width: 40%;
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid rgb(10, 52, 72);
+}
+#logo_img
+{
+    width: 150px;
+    border-radius: 100px;
+}
+#textbox
+{
+    width: 300px;
+    background-color: blue;
+}
+body
+{
+background: url("claro.jpg");
+background-size: cover;
+background-position:center;
+}
+h1
+{
+color:rgb(32, 49, 85);
+font-family: cursive;
+}
+center
+{
+    background:rgba(122, 130, 137, 0.482);
+}
+h3
+{
+    color: rgb(8, 34, 62);
+    font-size: 35px;
+}
